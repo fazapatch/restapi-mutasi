@@ -2,7 +2,7 @@
 
 API Cek Mutasi Bank is a service that allows you to check bank transactions using REST API.
 
-## Endpoint
+## Endpoint 
 
 https://api.cekmutasi.co.id/v1/bank/search
 
